@@ -2,3 +2,4 @@
 .python-version
 uv.lock
 /data
+*/__pycache__
